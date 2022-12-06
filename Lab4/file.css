@@ -1,0 +1,22 @@
+.swarnim{
+    text-align:left;
+    width: 500px;
+    border-style: groove;
+    border-radius: 7px 14px;
+}
+.btn-btn-dark{
+    border-style: groove;
+    width: 100px;
+    border-radius: 20px 20px;
+}
+.panel_panel-default{
+    border-style: groove;
+    width: 700px;
+    border-radius: 20px 20px;
+}
+.panel-group{
+    border-style: groove;
+    width: 700px;
+    border-radius: 20px 20px;
+    box-shadow: 100px;
+}
