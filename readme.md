@@ -1,1 +1,2 @@
-##ENSE 374 Labs
+**ENSE 374 Labs**
+
